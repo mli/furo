@@ -4,6 +4,6 @@
 // makes the layout non-user-configurable is a good thing.
 $content-padding: 3em;
 $content-padding--small: 1em;
-$content-width: 46em;
-$sidebar-width: 15em;
+$content-width: 60em;
+$sidebar-width: 0em;
 $full-width: $content-width + 2 * ($content-padding + $sidebar-width);
